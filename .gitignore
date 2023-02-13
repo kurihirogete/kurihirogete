@@ -1,0 +1,11 @@
+/_site/
+/.sass-cache/
+/.jekyll-cache/
+/.#*
+/#*
+*~
+Gemfile.lock
+.DS_Store
+node_modules
+.history
+.vscode
